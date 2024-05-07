@@ -2,7 +2,7 @@
 
 [x] install ts
 [x] setup ts
-[] install jest
+[x] install jest
 [] setup jest
 [] create first test
 [] create first meaningful test
