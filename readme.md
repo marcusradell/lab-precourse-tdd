@@ -1,7 +1,7 @@
 # lab-precourse-tdd
 
-[] install ts
-[] setup ts
+[x] install ts
+[x] setup ts
 [] install jest
 [] setup jest
 [] create first test
