@@ -6,11 +6,7 @@
 type Add = (n1: number, n2: number) => number;
 
 const add: Add = (n1, n2) => {
-  if (n1 === 1) {
-    return 3;
-  }
-
-  return 0;
+  return n1 + n2;
 };
 
 test("adding zeroes", () => {
