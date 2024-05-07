@@ -4,7 +4,7 @@
 [x] setup ts
 [x] install jest
 [x] setup jest
-[] create first test
+[x] create first test
 [] create first meaningful test
 [] second test
 [] goodbye
