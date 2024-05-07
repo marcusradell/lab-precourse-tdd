@@ -7,4 +7,4 @@
 [x] create first test
 [x] create first meaningful test
 [x] second test
-[] goodbye
+[x] goodbye
