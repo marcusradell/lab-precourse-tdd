@@ -6,5 +6,5 @@
 [x] setup jest
 [x] create first test
 [x] create first meaningful test
-[] second test
+[x] second test
 [] goodbye
