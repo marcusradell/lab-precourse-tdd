@@ -5,6 +5,6 @@
 [x] install jest
 [x] setup jest
 [x] create first test
-[] create first meaningful test
+[x] create first meaningful test
 [] second test
 [] goodbye
